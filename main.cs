@@ -10,6 +10,7 @@ class MainClass {
     sum = sum + temperatur[i];
   
     Console.WriteLine("medeltempetatur är: " + sum / temperatur.Length);
-     
+    
+    Console.WriteLine("hej");
   }
 }
